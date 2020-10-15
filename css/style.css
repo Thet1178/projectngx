@@ -1,0 +1,132 @@
+.myrows{
+    border: 3px solid green;
+    padding: 5px;
+}
+
+.mycols{
+    border: 3px solid red;
+}
+
+.mycontainer{
+    background-color: 1px solid #ebebeb;
+}
+
+
+
+#topHeader{
+    background-color: ghostwhite;
+    border-bottom: silver;
+    padding: 5px;
+}
+
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+
+.container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+
+/* Start footer */
+.full-footer{
+    background-color: #34495e;
+    
+}
+
+.top-footer p{
+    color: white;
+}
+
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+
+.top-footer h3 {
+    color: white;
+}
+
+.bottom-footer {
+    background-color: #02060a3d;
+}
+
+.bottom-footer p {
+    color: white;
+}
+
+/* End footer */
+
+/* Start : Home page first hero section */
+.top-hero-section {
+    background-color: #3498db;
+    color: white;
+}
+
+.top-hero-section a {
+    color: white;
+    font-weight: 600;
+}
+
+.qualities-img {
+    width: 200px;
+}
+
+/* End : Home page first hero section */
+
+/* Start : Home page third requirements section */
+.section-requirements {
+    background-color: #3d6e9e;
+    color: white;
+}
+/* End : Home page third requirements section */
+
+/* Start : Home page fourth subscriber section */
+.home-newsletter {
+    background-color: #3d6e9e;
+    color: white;
+}
+.home-newsletter .form-control {
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.home-newsletter .btn {
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: #913f86;
+    color: #fff;
+}
+
+/* End : Home page fourth subscriber section */
+
+/* ------------------ End of Home page ------------------*/
+
+/* ---------------- Star of About Us -----------------*/
+
+.breadcrumbs-section { 
+    background-color: #e9ecef;
+}
+/*
+.about-company-section img {
+    width: 200px;
+}*/
+
+/* ---------------- End of About Us -----------------*/
+
+/* ---------------- Star of Address -----------------*/
+.address p {
+    font-weight: 600;
+}
+/* ---------------- End of About Us -----------------*/
+
+
+
